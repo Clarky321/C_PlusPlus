@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!Coding\\C_PlusPlus\\Search_algorithms\\Linear_search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F58EA68-C423-4F99-AD1D-122BF4B73B5D}|Linear_search.vcxproj|D:\\!Coding\\C_PlusPlus\\Search_algorithms\\Linear_search\\Linear_search.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F58EA68-C423-4F99-AD1D-122BF4B73B5D}|Linear_search.vcxproj|solutionrelative:Linear_search.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Linear_search.cpp",
+              "DocumentMoniker": "D:\\!Coding\\C_PlusPlus\\Search_algorithms\\Linear_search\\Linear_search.cpp",
+              "RelativeDocumentMoniker": "Linear_search.cpp",
+              "ToolTip": "D:\\!Coding\\C_PlusPlus\\Search_algorithms\\Linear_search\\Linear_search.cpp",
+              "RelativeToolTip": "Linear_search.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T07:03:26.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
