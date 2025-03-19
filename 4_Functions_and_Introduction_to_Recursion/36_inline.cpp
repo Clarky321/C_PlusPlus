@@ -31,7 +31,7 @@ int main() {
 Однако как только программа будет скомпилирована, вызов hello() будет заменён на код функции.
 */
 
-int Sum(int a, int b)
+inline int Sum(int a, int b)
 {
     return a + b;
 }
