@@ -1,3 +1,0 @@
-﻿  Linear_search.cpp
-D:\!Coding\C_PlusPlus\Search_algorithms\Linear_search\Linear_search.cpp(93,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Linear_search.vcxproj -> D:\!Coding\C_PlusPlus\Search_algorithms\Linear_search\x64\Debug\Linear_search.exe
